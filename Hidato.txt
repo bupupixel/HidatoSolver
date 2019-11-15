@@ -12,5 +12,6 @@
 5	5	36
 
 
+// linear program (Cplex solver)
 // the number of hints
 // the matrix position and the given number
